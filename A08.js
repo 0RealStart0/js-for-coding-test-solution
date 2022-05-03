@@ -10,7 +10,7 @@ for(let i=0;i<input.length;i++){
         value += +input[i];
     }
 }
-//
+///
 
 result.sort();
 result.push(value);
