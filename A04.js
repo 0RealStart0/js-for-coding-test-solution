@@ -12,3 +12,5 @@ for(let i of arr){
 }
 
 console.log(target);
+
+//3

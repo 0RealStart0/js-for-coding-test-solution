@@ -36,3 +36,4 @@ for(let i=0; i<first.length-1;i++){
 }
 console.log(Math.min(count0,count1));
 
+//2

@@ -15,3 +15,5 @@ for(let i=1;i<s.length;i++){
 }
 
 console.log(result);
+
+//1
