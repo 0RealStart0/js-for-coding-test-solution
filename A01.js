@@ -13,4 +13,4 @@ for(let i of arr){
     }
 }
 console.log(result);
-//깃 테스트
+//깃 테스트1
